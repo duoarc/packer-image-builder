@@ -4,4 +4,5 @@ This packer template build an EBS-backed Amazon EC2 AMI. This template uses a t2
 
 You need an AWS account where you will create an IAM User with Access key ID and secret access key.
 
+Read all about it [here](hashnode.com/building-and-deploying-amazon-ami-using-packer)
 
